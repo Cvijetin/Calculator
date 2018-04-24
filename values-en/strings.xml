@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UniAda</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="puta">*</string>
+    <string name="djeljenje">/</string>
+    <string name="broj">Insert number</string>
+    <string name="rezultat">Result</string>
+</resources>
